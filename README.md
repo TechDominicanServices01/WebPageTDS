@@ -9,6 +9,6 @@
 - Home, Servicios, Nosotros, Contactos
 
 
- # public folder contiene los archivos estaticos
- # routes contiene las rutas que maneja la app
- # views contiene las vistas que maneja la app
+ public folder contiene los archivos estaticos
+ routes contiene las rutas que maneja la app
+ views contiene las vistas que maneja la app
