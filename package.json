@@ -1,0 +1,27 @@
+{
+  "name": "web_page_tds",
+  "version": "1.0.0",
+  "description": "Official web page of tech dominican services",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start":"nodemon src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechDominicanServices01/WebPageTDS.git"
+  },
+  "author": "Tech Dominican Services",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechDominicanServices01/WebPageTDS/issues"
+  },
+  "homepage": "https://github.com/TechDominicanServices01/WebPageTDS#readme"
+}
