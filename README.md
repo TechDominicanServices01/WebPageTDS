@@ -13,3 +13,5 @@
  public folder contiene los archivos estaticos<br/>
  routes contiene las rutas que maneja la app
  views contiene las vistas que maneja la app
+
+ para iniciar el proyecto instalar dependencias desdela consola con el comando npm i o npm install en el mismo folder del package.json.
