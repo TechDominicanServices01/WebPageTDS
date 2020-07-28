@@ -3,9 +3,12 @@ const router = express.Router();
 
 
 router.get('/', (req,res) =>{
-    res.send('<center><h1>Welcome to TDS</h1><center>');
+    res.render('pages/home')
 });
 
+router.get('/alexandra',function(req,res){
+    res.render('pages/about')
+})
 
 
 module.exports = router;
