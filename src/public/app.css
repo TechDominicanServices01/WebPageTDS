@@ -1,0 +1,17 @@
+ *{
+     margin: 0px;
+ }
+ .about-container{
+    background-image: url(assets/images/equipo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.transparente{
+    border-radius: 20px;
+    color:rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.575);
+}  
+.about h1{
+    font-size: 50pt;
+}
+   
