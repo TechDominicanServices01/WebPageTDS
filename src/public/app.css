@@ -5,13 +5,14 @@
     background-image: url(assets/images/equipo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 42rem;
 } 
 .transparente{
+    height: 15rem;
     border-radius: 20px;
     color:rgb(0, 0, 0);
     background-color: rgba(0, 0, 0, 0.575);
 }  
-.about h1{
+.bigTittle{
     font-size: 50pt;
 }
-   
