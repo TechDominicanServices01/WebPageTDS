@@ -5,7 +5,7 @@
     background-image: url(assets/images/equipo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 42rem;
+    height: 45rem;
 } 
 .transparente{
     height: 15rem;
@@ -15,4 +15,7 @@
 }  
 .bigTittle{
     font-size: 50pt;
+}
+.transparente p{
+    font-size: large;
 }
