@@ -19,3 +19,8 @@
 .transparente p{
     font-size: large;
 }
+
+.fa{
+    font-size: 32px !important;
+    letter-spacing: 35px;
+}
