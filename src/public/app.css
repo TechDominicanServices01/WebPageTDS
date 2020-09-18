@@ -24,3 +24,11 @@
     font-size: 32px !important;
     letter-spacing: 35px;
 }
+.navbar{
+   padding: 0.5rem 1rem !important;
+}
+@media only screen and (max-width: 768px) {
+    .navbar-brand{
+        font-size: medium !important;
+    }
+}
