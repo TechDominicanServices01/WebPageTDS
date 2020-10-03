@@ -4,8 +4,11 @@
  .about-container{
     background-image: url(assets/images/equipo.jpg);
     background-repeat: no-repeat;
+    
     background-size: cover;
     height: 45rem;
+  
+ 
 } 
 .transparente{
     height: 15rem;
@@ -33,6 +36,6 @@
     }
 }
 
-section{
+ section{
     overflow: hidden;
-}
+} 
