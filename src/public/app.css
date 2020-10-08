@@ -24,7 +24,15 @@
 }
 
 .bgTransparante{
-    background-color: transparent;
+    color:rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.navLink{
+    color: rgba(255,255,255,1);
+}
+.navLink:hover{
+    color:#bcb7b7;
 }
 
 .fa{
