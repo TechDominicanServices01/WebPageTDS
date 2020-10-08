@@ -1,6 +1,7 @@
  *{
      margin: 0px;
  }
+
  .about-container{
     background-image: url(assets/images/equipo.jpg);
     background-repeat: no-repeat;
@@ -18,6 +19,10 @@
 }
 .transparente p{
     font-size: large;
+}
+
+.bgTransparante{
+    background-color: transparent;
 }
 
 .fa{
