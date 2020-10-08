@@ -7,6 +7,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 45rem;
+  
+ 
 } 
 .transparente{
     height: 15rem;
@@ -32,12 +34,51 @@
 .navbar{
    padding: 0.5rem 1rem !important;
 }
+
 @media only screen and (max-width: 768px) {
     .navbar-brand{
         font-size: medium !important;
     }
+    .bigTittle{
+        font-size: 30pt;
+    }
+    .nosotros{
+        margin-top: auto;
+    }
+    .about-container{
+        height: 38rem;
+         
+    }
+    
+    .transparente{
+        height: 15rem;
+        /* width: 15rem; */
+    }
+    
+    .transparente h4{
+       font-size: 14pt;
+    }
+    .transparente h5{
+       font-size: 8pt;
+
+    }
+   
+    .transparente p{
+        font-size: 8pt;
+     }
+     .nosotros col {
+         width: 350px;;
+     } 
+     #servicios h2{
+         font-size: 14pt;
+     }
+     #servicios h3{
+        font-size: 12pt;
+    }
+    
+   
 }
 
-section{
+ section{
     overflow: hidden;
-}
+} 
