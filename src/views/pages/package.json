@@ -1,0 +1,29 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "Personal website about me",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniormena/Personal_Website.git"
+  },
+  "author": "Junior Mena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniormena/Personal_Website/issues"
+  },
+  "homepage": "https://github.com/juniormena/Personal_Website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "nodemailer": "^6.4.10",
+    "nodemon": "^2.0.2"
+  },
+  "engines": {
+    "node": "12.11.1"
+  }
+}
